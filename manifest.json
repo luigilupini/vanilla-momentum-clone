@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Dashboard",
+  "version": "1.0.1",
+  "description": "A nice landing page",
+  "action": {
+      "default_icon": "icon.png"
+  },
+  "chrome_url_overrides": {
+      "newtab": "index.html"
+  }
+}
